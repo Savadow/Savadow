@@ -4,9 +4,9 @@
 - 📫 How to reach me ..
     > 1. [LinkedIn](https://www.linkedin.com/in/Savadow)
     > 2. [Twitter](https://twitter.com/n_e_d_u_m)
-    > 3. Mobile: +2348026718076
-    > 4. Whatsapp: +2349035166732
-    > 4. Mail: ujuchimaraoke@gmail.com
+    > 3. [Mail](ujuchimaraoke@gmail.com)
+    > 4. Mobile: +2348026718076
+    > 5. Whatsapp: +2349035166732 
 
 <!---
 Savadow/Savadow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
