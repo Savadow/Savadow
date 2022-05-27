@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Savadow
+- 👋 Hi, I’m Chinedum
 - 👀 I’m a Python Developer and Data Analyst
 - 💞️ I’m looking to collaborate on any project but i'm stil learning at the moment
 - 📫 How to reach me ..
