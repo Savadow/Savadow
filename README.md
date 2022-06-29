@@ -5,7 +5,7 @@
     > 1. [LinkedIn](https://www.linkedin.com/in/Savadow)
     > 2. [Twitter](https://twitter.com/n_e_d_u_m)
     > 3. <a href="mailto:ujuchimaraoke@gmail.com">Mail</a>
-    > 4. <a href="tel:+2348026718076">Mobile</a>
+    > 4. <a href="tel:+234802-671-8076">Mobile</a>
     > 5. [Whatsapp](https://wa.me/+2349035166732) 
 
 <!---
