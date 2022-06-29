@@ -4,7 +4,7 @@
 - 📫 How to reach me ..
     > 1. [LinkedIn](https://www.linkedin.com/in/Savadow)
     > 2. [Twitter](https://twitter.com/n_e_d_u_m)
-    > 3. [Mail](ujuchimaraoke@gmail.com)
+    > 3. <a href="mailto:ujuchimaraoke@gmail.com">Mail</a>
     > 4. Mobile: +2348026718076
     > 5. Whatsapp: +2349035166732 
 
