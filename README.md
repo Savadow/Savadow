@@ -5,8 +5,8 @@
     > 1. [LinkedIn](https://www.linkedin.com/in/Savadow)
     > 2. [Twitter](https://twitter.com/n_e_d_u_m)
     > 3. <a href="mailto:ujuchimaraoke@gmail.com">Mail</a>
-    > 4. Mobile: +2348026718076
-    > 5. Whatsapp: +2349035166732 
+    > 4. <a href="tel:+2348026718076">Mobile</a>
+    > 5. [Whatsapp](https://wa.me/+2349035166732) 
 
 <!---
 Savadow/Savadow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
