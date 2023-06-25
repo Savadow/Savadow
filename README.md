@@ -1,11 +1,20 @@
 <h1 align="center">Hi 👋, I'm Nedum</h1>
-<h3 align="center">A Python Developer, Data Analyst and Backend Developer</h3>
+<h3 align="center">A Python Developer, Data Analyst and budding Backend Developer</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uju-chinedum" alt="uju-chinedum" /></a> </p>
 
 - 🌱 I’m currently learning **JavaScript, Node.js**
 
-- 💬 Ask me about **Python, R and also life**
+- 💬 Ask me about **Python, R and also life😂😎**
 
 - 📫 How to reach me **ujuchimaraoke@gmail.com**
 
@@ -24,6 +33,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uju-chinedum&show_icons=true&locale=en" alt="uju-chinedum" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uju-chinedum&" alt="uju-chinedum" /></p>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2mybftxebckj6tm26yfvrdxhv&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=2mybftxebckj6tm26yfvrdxhv&redirect=true)
+
 <!---
 Savadow/Savadow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
