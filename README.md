@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nedum</h1>
-<h3 align="center">A Python Developer, Data Analyst and budding Backend Developer</h3>
+<h3 align="center">A Python Developer, Data Analyst and Backend Developer</h3>
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -12,9 +12,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uju-chinedum" alt="uju-chinedum" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript, Node.js**
+- 🌱 I’m currently learning **TypeScript**
 
-- 💬 Ask me about **Python, R and also life😂😎**
+- 💬 Ask me about **Python, Node.js and also life😂😎**
 
 - 📫 How to reach me **ujuchimaraoke@gmail.com**
 
