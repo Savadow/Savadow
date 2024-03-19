@@ -8,6 +8,8 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://shields.io/badge/TypeScript-316192?style=for-the-badge&logo=typescript&logoColor=white%22" />
+  <img src="https://shields.io/badge/GraphQL-316192?style=for-the-badge&logo=graphql&logoColor=white%22" />
 </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uju-chinedum" alt="uju-chinedum" /></a> </p>
